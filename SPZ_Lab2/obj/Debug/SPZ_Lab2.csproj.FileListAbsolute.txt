@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\bin\Debug\SPZ_Lab2.exe.config
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\bin\Debug\SPZ_Lab2.exe
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\bin\Debug\SPZ_Lab2.pdb
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\obj\Debug\SPZ_Lab2.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\obj\Debug\SPZ_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\obj\Debug\SPZ_Lab2.exe
+C:\Users\Александр\source\repos\SPZ_Lab2\SPZ_Lab2\obj\Debug\SPZ_Lab2.pdb
